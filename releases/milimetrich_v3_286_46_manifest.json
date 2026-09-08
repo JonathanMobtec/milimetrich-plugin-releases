@@ -1,0 +1,18 @@
+{
+  "version": "3.286.46-beta-scale-local-e-sempre-conectado",
+  "target_sha": "d463d700ee3adf71acc0a68a556c8a9270d5ac72",
+  "file": "milimetrich_v3_286_46_signed_encrypted_scale_local_e_sempre_conectado_debad5cf.rbz",
+  "sha256": "debad5cff81d3f8b13ec30d307d58584a2a4f749c5a421264f38481fd18fb6cb",
+  "size_bytes": 15239739,
+  "channel": "beta",
+  "minimum_version": "3.286.1",
+  "required": true,
+  "harness_sha256": "17292e204963edc2a49f4b54d4a09e1eb69f51124ac932017c460d68cde5724d",
+  "master_reports": {
+    "2026": "860cd73db1a2b2398401305847087f5c317c106322494b4b4dabc78162e6672d",
+    "2025": "9e4347a7567f23e999aeb49a9ae75bc1ebdcb34f9326cddf6199f203d7b694e9",
+    "2023": "5abccad5ae891c84263c3b0245081d6e116e48679e01810cc7924c7d8ad99998",
+    "2021": "c59b7c3bda09e4b89e58839919a2cb3189b4679102ab3d0099fc6b7694d966a3"
+  },
+  "release_notes": "Scale local e sessao sempre conectada. Inclui correcoes do preview de medida e da prontidao terminal do Master. Pacote protegido validado nas quatro versoes SketchUp 2021, 2023, 2025 e 2026. Rotacao H3 fora desta release."
+}
