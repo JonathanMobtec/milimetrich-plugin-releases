@@ -1,0 +1,1909 @@
+{
+  "schema": "milimetrich.signed_artifact_manifest.v1",
+  "target_sha": "ff13dc83d18b6332104f9b5f6a996356fdb4959a",
+  "plugin_version": "3.286.47-beta-projeto-fluido",
+  "rbz_sha256": "509d92debfd82139a1ce0efdb2efa8627e1b9f68cef6ca1738e3a4bd5cdb3ab9",
+  "entry_count": 380,
+  "entries": [
+    {
+      "path": "zz_mobtech_dev.rb",
+      "size_bytes": 4050,
+      "sha256": "ceadb460d9b78dde9bc14b654e9776110d73a6eefa6ab1fafb24257ae025f18c"
+    },
+    {
+      "path": "zz_mobtech_dev/README.md",
+      "size_bytes": 2124,
+      "sha256": "4479047a0c2ff1197345ce9ce1e9b6e3a7bd4b017f7b8c01b3df4c412026beaf"
+    },
+    {
+      "path": "zz_mobtech_dev/README_INSTALACAO_BETA.md",
+      "size_bytes": 1405,
+      "sha256": "641e9bbff9532fc111b23f8664c39cd49ce52d666b2c3e96b8ea640d945965f0"
+    },
+    {
+      "path": "zz_mobtech_dev/SUPPORT.md",
+      "size_bytes": 1258,
+      "sha256": "9292c0877f8bec17433749b8deaf66337c14294b7e19a47f0e62ea80a2185a65"
+    },
+    {
+      "path": "zz_mobtech_dev/TERMS_BETA.md",
+      "size_bytes": 2017,
+      "sha256": "35d5d40ceb3439902edd15354eab87a008289dcc237bc1329121dd265bf628b8"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/aspire_logo_official.png",
+      "size_bytes": 5107,
+      "sha256": "dac9a3197f63f614246e425b80901dbb0c58eb0a5ce5fc3c94c9f215b9d3bf1c"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/cortecloud_logo_official.png",
+      "size_bytes": 16294,
+      "sha256": "98252b90d8a7c70102dae7dbd47c177f661547499b665b0a19cd3d677aaadeb8"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/cortecloud_logo_ref.png",
+      "size_bytes": 22518,
+      "sha256": "5b1e1070f35993164e4e47a3a187b815adb7d55e99b82d7a39f6abc54847f2ef"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_beta_canva_clean.png",
+      "size_bytes": 469288,
+      "sha256": "39ea829760a372335e384d567ac598ecfc1236fab665ae001934ea234abfaf4f"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_beta_header.png",
+      "size_bytes": 8751,
+      "sha256": "c9d5432e96b7e8df9ce49eb2b524c37112be25b7cf30aa2f9d29e293ebe0f1f0"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon.svg",
+      "size_bytes": 2293,
+      "sha256": "2e7af5462877ad7e1f3bbf879c8c2a64195e8e569d8c343835b31c9b5c2ab553"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon_16.png",
+      "size_bytes": 795,
+      "sha256": "d9d03d467935790817249f750fff0b14e4bba183d188d18e57ed1f4cb425491b"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon_24.png",
+      "size_bytes": 1354,
+      "sha256": "6a91b839de72e56937713307b8c90316ddd67a622cd29173e788284109dc45ff"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon_32.png",
+      "size_bytes": 2107,
+      "sha256": "877afcd5fe7781865f7e581d78d7cd428e9a0f28d756f8c57c6ef544782eedc4"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon_48.png",
+      "size_bytes": 3866,
+      "sha256": "c89c90300161168c26ee672cbcf7ef093a697856be11b0c02c620f38a18fa975"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon_512.png",
+      "size_bytes": 218606,
+      "sha256": "084417084f6e02007dd0ed091a0e149af4bc7a64ddad44fc64faa4feaebd91ed"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon_64.png",
+      "size_bytes": 6007,
+      "sha256": "e1471b4e5b16e775d8a0988ec6ffe3fcea740e706561a2d3ecacc05a02b7d2da"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_icon_canva_clean.png",
+      "size_bytes": 218606,
+      "sha256": "084417084f6e02007dd0ed091a0e149af4bc7a64ddad44fc64faa4feaebd91ed"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_logo.svg",
+      "size_bytes": 767,
+      "sha256": "2332659cd7eafec0a164bdb7a17a61f2ac2add938b450fc9844c1a3656246225"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_logo_320.png",
+      "size_bytes": 11165,
+      "sha256": "a8520559521a84b1a009f5ddcafe53ac0b76f9a1f86e56b69b35bf7f4a8f63c7"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_logo_canva_clean.png",
+      "size_bytes": 35597,
+      "sha256": "04c37ac9c9a453553e57571a4a715c9216b67da1ce9720250090f1c4adb14160"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/mobtech_logo_header.png",
+      "size_bytes": 37610,
+      "sha256": "3f795972d272a026e87ab866122dde380688bcdae16356b220da2c86de562f5d"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/01_aereo_l.png",
+      "size_bytes": 318747,
+      "sha256": "a9989e3052ad49458600843e04dc4092c6e3223c0ba27def99811463a3fc32ae"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/02_aereo_basculante_2p_h.png",
+      "size_bytes": 223979,
+      "sha256": "5a4bfee7c86987f9166ebee9ecd56c9ce873288f60e86eaf40ea60c6047d4bcb"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/03_aereo_1p.png",
+      "size_bytes": 247194,
+      "sha256": "cf40017b86594eb6e33cfdd841fa2544c8cabcdafb7fc44ca9cadbf57bc19e67"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/04_aereo_2p.png",
+      "size_bytes": 256566,
+      "sha256": "69716e8e2fc92354e7ba7373cbb7b81b16ce2cdd6b54b9516f41159f013f5538"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/05_aereo_3p.png",
+      "size_bytes": 233187,
+      "sha256": "957a5d4038b688748bbdedbf68512c0edf93c49184f2d14c8a17b9e41d4d2d3d"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/06_aereo_4p.png",
+      "size_bytes": 242698,
+      "sha256": "b8538cdfba1233ce24c88a8f4e05d164f485f2d954a614359c5ef2d12f1f6a9f"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/07_nicho.png",
+      "size_bytes": 283400,
+      "sha256": "95c603daed415210f86f66c7325f669514825e1f7d9c514a55f73c5776251597"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/08_balcao_1p.png",
+      "size_bytes": 266025,
+      "sha256": "a2f7b222120e057c22b170dddb2c9bad09d752ad07019ad9547c0c51b37492d7"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/09_balcao_2p.png",
+      "size_bytes": 260918,
+      "sha256": "f79889026ef38d1239b944f5aec6592a9de09a02f640d33c65c4e2535e714d1a"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/10_balcao_3p.png",
+      "size_bytes": 243447,
+      "sha256": "23779af10bc53e51e08b09c9a8e0e32095fbd000f947b914887844f80b956369"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/11_balcao_4p.png",
+      "size_bytes": 260305,
+      "sha256": "7ba9cb16baed925b692405e1a3a142e692c9a162de56586cc0a90e14b6462c73"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/12_balcao_l.png",
+      "size_bytes": 264034,
+      "sha256": "7469d904afe6157c000193a184d1be8d12e4364e898cdda002a1c8e09baf1885"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/13_balcao_conjugado_3_vaos.png",
+      "size_bytes": 275244,
+      "sha256": "2e8180e6c360ebe45b1d4e153af263a957d3caf7bd6a7f10aabf931b2eae540c"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/14_balcao_gavetas.png",
+      "size_bytes": 289991,
+      "sha256": "eef89bc5ae2e32eb72ca5862a46dfef31273dffa9bfded10a47d763eab2d7ef5"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/15_balcao_gavetas_2p.png",
+      "size_bytes": 268392,
+      "sha256": "dbf2f828d06a3f3f53e4c705f65b9d1ea2f587aebf0bcf282cba2bad1869b516"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/16_balcao_gavetas_e_gavetao.png",
+      "size_bytes": 268215,
+      "sha256": "f90f0c2c9836e7dded2a7e2f79ddf041cdff2a601bce69b85f9ece38e380959b"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/17_balcao_basculante_gavetao.png",
+      "size_bytes": 281443,
+      "sha256": "8b229853427493d8a2855f17611b94a2476cee5d21125cc0dc3f52b998fd6d72"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/18_balcao_porta_temperos.png",
+      "size_bytes": 277635,
+      "sha256": "ae8fdfa2c15a779cdc470899336db0695a71f9c892b34452016a29cc6ec619db"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/19_expositor_l.png",
+      "size_bytes": 306291,
+      "sha256": "65ff1cf32fef75b322151897ec51a214c185e8989c2c2dbef38db4e88c37dc7b"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/20_torre_geladeira_alongada.png",
+      "size_bytes": 259729,
+      "sha256": "521afd76a60bcbe7e136027a088630507a552ce151d6e07eddf2db4ebb105b07"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/21_painel_ripado.png",
+      "size_bytes": 272051,
+      "sha256": "2d904dea3fd4fd069a4707606b9d83a997cff64767dc4ce44a4812b319c0b43f"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/22_balcao_duas_portas_vassoura.png",
+      "size_bytes": 239986,
+      "sha256": "4587518b5aa1e72f406b515dfa7333326e294b9266b67156b86a86cea1d23238"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/23_lateral_de_tamponamento.png",
+      "size_bytes": 261246,
+      "sha256": "198d90dbfbeefad85539c020f456597b193bb8417b8639c42d6c08c9a826b46f"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/24_tampo_para_tamponamento.png",
+      "size_bytes": 245635,
+      "sha256": "c6d151484e3913aefd97f6f7976e3c5896790c808df91ab1c8f8cc4b9bf386d7"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/25_vista_horizontal.png",
+      "size_bytes": 222412,
+      "sha256": "a0d5f685d83bb0470e7c9a969d3e3e4874248130d697095a7ce077d67b455469"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/manifesto_imagens_modulos.csv",
+      "size_bytes": 3717,
+      "sha256": "3b35aa6c74c8873081a8b4f3a0e2e36b4184c7f277462dcbaf7570832ef3bf71"
+    },
+    {
+      "path": "zz_mobtech_dev/assets/module_previews/manifesto_imagens_modulos.json",
+      "size_bytes": 7071,
+      "sha256": "40135db7f9ca5c14a0e87c8aff3925bd8a0d4e28489201f4664eee7a4ef2e8f7"
+    },
+    {
+      "path": "zz_mobtech_dev/build_provenance.json",
+      "size_bytes": 778,
+      "sha256": "e4eee5d5a1b84b311139e7866434fee7211387fffb9d1445567b546fb51a25d5"
+    },
+    {
+      "path": "zz_mobtech_dev/core/about_support.rbe",
+      "size_bytes": 3670,
+      "sha256": "04c1ea038234f19bba61f6b44d0865bfc46f95fb71a0406ccf36571fc7467a0b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/acceptance_gate.rbe",
+      "size_bytes": 108406,
+      "sha256": "a2ace14a2f8906e60b2d34b9f8ce1f39366e0e702b2b38db8baf57fda9cbcf69"
+    },
+    {
+      "path": "zz_mobtech_dev/core/action_trace.rbe",
+      "size_bytes": 38806,
+      "sha256": "93e9dc0833d85a73ea80cc47b464cfec2558effb6b204f237ae190eaaa5353f7"
+    },
+    {
+      "path": "zz_mobtech_dev/core/automation_command_api.rbe",
+      "size_bytes": 22502,
+      "sha256": "2694efbf780fbdda7334b50772cd7708ec7ffde884ae730dba887831b523012f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/automation_real_model_smoke.rbe",
+      "size_bytes": 36358,
+      "sha256": "db41694ed67d3a5063cf3c1368900512754dfb3a54c38127bf364184752cda03"
+    },
+    {
+      "path": "zz_mobtech_dev/core/beta_distribution.rbe",
+      "size_bytes": 7862,
+      "sha256": "05f98733af14c77cb06085a0979ebf908fe5bd137a4410100efc9b09c82d6e45"
+    },
+    {
+      "path": "zz_mobtech_dev/core/beta_feedback_report.rbe",
+      "size_bytes": 30646,
+      "sha256": "f4e046d30a66ed3389e688d25e1478396cc674c0ec29e9690f23a5958c36a9d7"
+    },
+    {
+      "path": "zz_mobtech_dev/core/beta_mode.rbe",
+      "size_bytes": 6470,
+      "sha256": "b9426e13dcd502bddc050c4a565fb28aa904ead16c4e65a37d6243bdfdc93859"
+    },
+    {
+      "path": "zz_mobtech_dev/core/beta_terms.rbe",
+      "size_bytes": 10374,
+      "sha256": "0907d9bb939472aefce081a000b827940c74086e056dc19848fdd8f033b5d88e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/boot_access_gate.rbe",
+      "size_bytes": 18502,
+      "sha256": "667460dce6a3535e9f0fe605bcc444558890a556a7fb5bf9a1f805288a7a49bf"
+    },
+    {
+      "path": "zz_mobtech_dev/core/boot_warning_hardening.rbe",
+      "size_bytes": 3286,
+      "sha256": "18575e0ba2aec00381f40c633f571abb39df78314d63d0a7eba0dfb27f4c6f4e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/clean_recipe.rbe",
+      "size_bytes": 17878,
+      "sha256": "dcc994a9f94117a1b2c30e078d21e9824bd2343a4350a7b6d5849a771a0e396c"
+    },
+    {
+      "path": "zz_mobtech_dev/core/clean_scale_sentinel.rbe",
+      "size_bytes": 59862,
+      "sha256": "0d7786234e2970697192ec9b244861f5549c65e5864a4c04c210b45cdab0304b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/controlled_beta_readiness.rbe",
+      "size_bytes": 10566,
+      "sha256": "7c338b22fb4f085c8e2cde0b752e008724271f603652718bcf7192d0fb75226d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_auto_internal_face_from_holes.rbe",
+      "size_bytes": 13302,
+      "sha256": "8ea537c2c8c6f9ce99eb40c8d73242898c32dad290df3338cb5b4272aa618c3d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_auto_internal_face_gate_fix.rbe",
+      "size_bytes": 17814,
+      "sha256": "f37fb82648a1aff9fafe49d2cf37f8010199ef2c1bac0c1d721da6ca7b58857d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_contract_face_axis_completion.rbe",
+      "size_bytes": 13734,
+      "sha256": "139048927e9d3beeec9dbbcdb287f6ee03db9df8a91bb4a383d07282d044f8ea"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_contract_semantic_fail_fast.rbe",
+      "size_bytes": 15062,
+      "sha256": "962d7aca71b01f090ced59ae161915d1113e8d55797a13f3ded1cd3c145168e8"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_expositor_l_controlled_frame_report.rbe",
+      "size_bytes": 22294,
+      "sha256": "1320781032b5c75d020f89a2fd91959df054fd4db3fca85b25386044985513ab"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_face_z_surface_fold_gate.rbe",
+      "size_bytes": 4886,
+      "sha256": "c1de2a27718286811b384b73462fe75f46eb81bac3e11ad4e0d2dd207d248782"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_horizontal_z_surface_fold_gate.rbe",
+      "size_bytes": 4662,
+      "sha256": "c4396850050065efae2206fe839513e237e523fd630c0128dee7b5fd83b6f095"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_host_edge_frame_alignment.rbe",
+      "size_bytes": 19222,
+      "sha256": "a3d59571185bdc791efb18472044bb9b00a754dc142a14a2c716e60125adb67e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_productive_face_axis_bridge.rbe",
+      "size_bytes": 19542,
+      "sha256": "b87ef004042eb0c3fc0def1c6f0834b83cf5cb0c2938523bceab10eb8e9d9189"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_semantic_warning_gate_refinement.rbe",
+      "size_bytes": 6422,
+      "sha256": "b822d446d5df05a8ad5599b3de9be9043c5ae5eb8f50ce8ad9b5dc791d0d8cbe"
+    },
+    {
+      "path": "zz_mobtech_dev/core/cortecloud_vb36_contact_warning_gate_fix.rbe",
+      "size_bytes": 5286,
+      "sha256": "e2002c0283a5083c2f01cae7fd30c259c43979a9eb7734faacc6b5957adfd0b8"
+    },
+    {
+      "path": "zz_mobtech_dev/core/definition_catalog.rbe",
+      "size_bytes": 33190,
+      "sha256": "940c947cc015901cf9d5315bbf2c4c8a4ac8f76832744989d3c4359c00e6ff3b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/definition_expansion_preflight.rbe",
+      "size_bytes": 9190,
+      "sha256": "d3af566477a9a1427079029a7ac30207e6d8d8618f5f298303b382073b0820fb"
+    },
+    {
+      "path": "zz_mobtech_dev/core/definition_inventory.rbe",
+      "size_bytes": 12934,
+      "sha256": "f9789acce438e0968866424c42547b3a35d06224a6a808246552ccaa2029b4d9"
+    },
+    {
+      "path": "zz_mobtech_dev/core/definition_map.rbe",
+      "size_bytes": 51142,
+      "sha256": "69ae039b996587a11aac6999917c7d610e13a23e26d8feee8edf85273e4f54a1"
+    },
+    {
+      "path": "zz_mobtech_dev/core/definition_origin_inspector.rbe",
+      "size_bytes": 15478,
+      "sha256": "37a397985cfbbc5f766596012d35118d3ccbd4ae42189370b1ed39a9b6e58653"
+    },
+    {
+      "path": "zz_mobtech_dev/core/dependency_audit.rbe",
+      "size_bytes": 28294,
+      "sha256": "8629c8308068420a26009f3afa0c8397d311776429055d06050e173332b69354"
+    },
+    {
+      "path": "zz_mobtech_dev/core/devices_catalog.rbe",
+      "size_bytes": 20550,
+      "sha256": "f490b6a13c755815884aca8f76f96f10ca148815b6d2bf8f0ad3a78d689d0f51"
+    },
+    {
+      "path": "zz_mobtech_dev/core/diagnostics.rbe",
+      "size_bytes": 4550,
+      "sha256": "b9693e9592422fc2835e855f5a7ff27dc70bdc4f8995c1e40f7f87decbbe1c0c"
+    },
+    {
+      "path": "zz_mobtech_dev/core/diagnostics_mode.rbe",
+      "size_bytes": 3494,
+      "sha256": "28e738714fbf3ad907a920def6d4b5578cb27da7c717835746aa48443b22d29e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/distribution.rbe",
+      "size_bytes": 4758,
+      "sha256": "d2753a103cf8d6d23a15f6063def70d3acafa2a9b05b61b6ce4e88667932d112"
+    },
+    {
+      "path": "zz_mobtech_dev/core/editor_contract.rbe",
+      "size_bytes": 32406,
+      "sha256": "1a7e10b2b469b2c6aa4d60c7c2ecc4b339f7f3d86c9a957088c0a6c77e644053"
+    },
+    {
+      "path": "zz_mobtech_dev/core/engine_adapter.rbe",
+      "size_bytes": 5590,
+      "sha256": "bbe6df65943c9c26f3f766f934c0708ea187442befd73b943d4aab7b9ab7b3de"
+    },
+    {
+      "path": "zz_mobtech_dev/core/engine_call_audit.rbe",
+      "size_bytes": 5478,
+      "sha256": "2798edf7e27a219e28ebcaadf825d1e78e11d1c534ab456ed4b5665ca6379ba2"
+    },
+    {
+      "path": "zz_mobtech_dev/core/engine_gateway.rbe",
+      "size_bytes": 12326,
+      "sha256": "d6e9b8652543e23b378191d8e6d4b8efc10d82605a75e37637b1cd02fd6f816e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/engine_package_manifest.rbe",
+      "size_bytes": 6838,
+      "sha256": "34e10224ae251c211f2a4cc96f7b6d12e2c247c69127a13c797f8b73a1e4bc70"
+    },
+    {
+      "path": "zz_mobtech_dev/core/external_submodule_executor.rbe",
+      "size_bytes": 25590,
+      "sha256": "4f99f808fb3b3214156b5f8d4528fb4311574c83627fcba5cd2d4fe574e989dd"
+    },
+    {
+      "path": "zz_mobtech_dev/core/external_submodule_interpreter.rbe",
+      "size_bytes": 12790,
+      "sha256": "9c74a340d1729aded599ab3fd2bc57348021affa73f0146d1cafbf3e24aebfa4"
+    },
+    {
+      "path": "zz_mobtech_dev/core/external_submodule_pilot_tests.rbe",
+      "size_bytes": 12070,
+      "sha256": "df9517c6aa9908ebf160757974f935afb8fd4b59baace07f4e68df56ea09cc86"
+    },
+    {
+      "path": "zz_mobtech_dev/core/field_contract.rbe",
+      "size_bytes": 11558,
+      "sha256": "c87406c361c5fd4bdcc556ada17b0417f1c88871df8dca43d661d1237befd2c4"
+    },
+    {
+      "path": "zz_mobtech_dev/core/first_use_warm_cache.rbe",
+      "size_bytes": 10710,
+      "sha256": "dd74eb72730c87223904854458992b9d937c813d3e5e25a5b3c41c7dc602917f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/full_insert_position_matrix_progressive.rbe",
+      "size_bytes": 42966,
+      "sha256": "28c6645b36caec208110941a759b887e6740aa0fe625e3bc2b39714b02a9866b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/functional_categories.rbe",
+      "size_bytes": 17174,
+      "sha256": "cd4b8ab0c81c143909fe6dd3d693b6f7f1c11a0ab2cc14b02d01e5e34e2ffb16"
+    },
+    {
+      "path": "zz_mobtech_dev/core/functional_test_harness.rbe",
+      "size_bytes": 21990,
+      "sha256": "81a807f9fac3a8feddb6ccf8e84799bc02729148ab7ba7acfc2cd9cdbf307930"
+    },
+    {
+      "path": "zz_mobtech_dev/core/incident_reporter.rbe",
+      "size_bytes": 27718,
+      "sha256": "8e0b6cef90d5dfd5e1c9175ea1ec56ded9719a3671d3a44680f43b03c13d6376"
+    },
+    {
+      "path": "zz_mobtech_dev/core/instance_identity.rbe",
+      "size_bytes": 49382,
+      "sha256": "a3aa7fe6338de867f8381c3edbe8726641e81208205512614ed9f460b0c27db2"
+    },
+    {
+      "path": "zz_mobtech_dev/core/library_consolidation_center.rbe",
+      "size_bytes": 15526,
+      "sha256": "1de0ec38db0349610cd5ef762e8dc7710a46d1b1ef1343da6f0cf65c7d5e39de"
+    },
+    {
+      "path": "zz_mobtech_dev/core/library_duplication_audit.rbe",
+      "size_bytes": 6262,
+      "sha256": "c55f8be559a81fb0c36d1efe367db2afd0a0fc76fbe4f0a71515e8355c3d0552"
+    },
+    {
+      "path": "zz_mobtech_dev/core/library_functional_scan.rbe",
+      "size_bytes": 45718,
+      "sha256": "2281783d970f379a62425fa9aeafdb4a91e8d0b62b6da679250e7781c543e4ce"
+    },
+    {
+      "path": "zz_mobtech_dev/core/library_runtime_source_trace.rbe",
+      "size_bytes": 8054,
+      "sha256": "a94e14c3419d88ad8b5f83eb8ba8da06faf5385d1ca70ee5db46e05109f1c4dd"
+    },
+    {
+      "path": "zz_mobtech_dev/core/library_source_resolution_audit.rbe",
+      "size_bytes": 8134,
+      "sha256": "4a03f9f77fd88d7a1aa1be9ba609b7acbb57eabccfb773cd4e3307b475364bb8"
+    },
+    {
+      "path": "zz_mobtech_dev/core/license_stub.rbe",
+      "size_bytes": 4950,
+      "sha256": "92127b1cc97dba76e9c92bd595eb7a4f4785d321aa48dfd8ecee2f34e8f27eb3"
+    },
+    {
+      "path": "zz_mobtech_dev/core/loader.rbe",
+      "size_bytes": 6694,
+      "sha256": "4684ae68e1c1419f0b7b449892a366f7275188f69587807d890be2d0c5548853"
+    },
+    {
+      "path": "zz_mobtech_dev/core/loader_hardening.rbe",
+      "size_bytes": 5350,
+      "sha256": "f5eed2c98290816efd2e366249e03f374f1a8a99c35357d8b683a899981febc1"
+    },
+    {
+      "path": "zz_mobtech_dev/core/logging.rbe",
+      "size_bytes": 5270,
+      "sha256": "2cee871f09e8baeb51c9104490ed5ed4e7a2404b05e2553ed33ecc39f635642c"
+    },
+    {
+      "path": "zz_mobtech_dev/core/manual_validation_checklist.rbe",
+      "size_bytes": 6166,
+      "sha256": "f113950003cfe8231c647c383cc702deba1a7f30400b6e5b161409778fb514fb"
+    },
+    {
+      "path": "zz_mobtech_dev/core/manual_validation_state.rbe",
+      "size_bytes": 8086,
+      "sha256": "5973eabdc492e1e474cb04b901c5e1d63ee02269926e0044ecff5174f1bc79a6"
+    },
+    {
+      "path": "zz_mobtech_dev/core/master_test_runner.rbe",
+      "size_bytes": 73398,
+      "sha256": "fcb396f352eb0ca3bd562ee83d2fce72c9c374ed4a5084c81c255627f6944dcc"
+    },
+    {
+      "path": "zz_mobtech_dev/core/material_application_sentinel.rbe",
+      "size_bytes": 86134,
+      "sha256": "46bac5e57f38e914b91f6eaca3060a24ba0a5609494b30396589d0c62d72ab5b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/material_cache_e2e_sentinel.rbe",
+      "size_bytes": 155478,
+      "sha256": "54fc741807f4f543d7102e05fde3666daee55a480af4b9d5acf8398007d59c28"
+    },
+    {
+      "path": "zz_mobtech_dev/core/material_catalog_sync.rbe",
+      "size_bytes": 615046,
+      "sha256": "5f8c2bb687a6d5088e4820d3f24da88f7df62afe3c6d4e7ac47ab53b16e7a025"
+    },
+    {
+      "path": "zz_mobtech_dev/core/material_origin_inspector.rbe",
+      "size_bytes": 10806,
+      "sha256": "0dca4770b7b0e6202cb7e5dd6c62d23d0ee58bef431c2ad3fb2704127b48db80"
+    },
+    {
+      "path": "zz_mobtech_dev/core/material_readiness_consumer.rbe",
+      "size_bytes": 5078,
+      "sha256": "06362f289083e3c66c35289655b9ca82b88169edbd6d1e55906a78daa7c9d87e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/material_readiness_request.rbe",
+      "size_bytes": 4886,
+      "sha256": "2ec7489eabe2cdb6133fdcf99d8c41fe5376f25bf0513d767c4018db40d14673"
+    },
+    {
+      "path": "zz_mobtech_dev/core/materials_sandbox_manifest_diagnostic.rbe",
+      "size_bytes": 17606,
+      "sha256": "caa475759f5c5b65ffc953415408bd370dab60c64ea7619d3ab954921fa43e82"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_direct_gate_csv_export_override.rbe",
+      "size_bytes": 24134,
+      "sha256": "07e9370185bcc383cdadb2cd4510cb3cea48b002f5c7163b50b432fb814ef049"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_drilling_capability_audit.rbe",
+      "size_bytes": 17718,
+      "sha256": "ff0efc3c54f831768e7a96fa3aca989bf992629cecbec7be6152da3a55714815"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_drilling_face_coordinate_contract_audit.rbe",
+      "size_bytes": 22022,
+      "sha256": "f7809749300622dd0f11539f4d585d5de319983fd8a25d6d61065f99b15ddc8b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_drilling_neutral_contract_dev_export.rbe",
+      "size_bytes": 19830,
+      "sha256": "ea2f1989383c6303eee6fb945b560bd1bdea0ca5d7b2b549b06814ca2139a925"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_drilling_vertical_probe_dev_export.rbe",
+      "size_bytes": 22294,
+      "sha256": "bf65c0ee2a9b331a59bb9773eff0e41062505484a4e809b52b8b622b50144434"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_dual_path_legacy_new_compare.rbe",
+      "size_bytes": 16550,
+      "sha256": "6c2ccccd91ddfbda79aa052280b14bdb728432cddb20eab080b0a95d37ba4e88"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_face_hole_corner_mapping_audit.rbe",
+      "size_bytes": 26998,
+      "sha256": "d49d4512629c64dcaf52a155f81d7fa57af256a958225657f2ca1c95d831ab3e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_face_holes_dev_csv_export.rbe",
+      "size_bytes": 26166,
+      "sha256": "14e86f9e53c1230981ae6eb835152c00ff905c01a100f532104f2e50acaa5259"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_face_holes_orientation_contract_dev_export.rbe",
+      "size_bytes": 29910,
+      "sha256": "a1c0cbe8d9ca3be19a240e770c8f902cae97604f1c5a9860d97fc081a914785e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_face_holes_swapped_axis_dev_csv_export.rbe",
+      "size_bytes": 22166,
+      "sha256": "b3501ddf0dba43f147e0383ea7bf7a1634374f721144770a2eb701092c7e3fc4"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_gate_projected_rows_official_csv_bridge.rbe",
+      "size_bytes": 20518,
+      "sha256": "12913e500f6f62e8c64bb92d77ceced11465cc542060652693b604998f24c26d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_hole_column_assignment_audit.rbe",
+      "size_bytes": 22646,
+      "sha256": "faea0ca36b278b0d4568664ac209bbdb8cd06fa2af792d661f06f46d737d526a"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_hole_columns_sample_audit.rbe",
+      "size_bytes": 21206,
+      "sha256": "6187e09704af3d8d40667d1a1d717d530d7bee644f4360a354279af424a483e7"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_hole_coordinate_sanity_audit.rbe",
+      "size_bytes": 34838,
+      "sha256": "d485baa866bad820a930aa44446277a5bb71fa281fb3cc13e9e88a770633835e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_hole_origin_visual_probe_csv.rbe",
+      "size_bytes": 16166,
+      "sha256": "1fcef0cad8d6c2889868650f82ac0358eb21020f4a23a5284db6ce8c71251724"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_official_face_holes_csv_columns_fix.rbe",
+      "size_bytes": 12710,
+      "sha256": "1994b72605232485d4c92d753997cbc434c895b177a8a2811cb893f3ced64eac"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_official_face_holes_export.rbe",
+      "size_bytes": 17974,
+      "sha256": "ca1dbb25507cee527ddb2776c154c21d28564c6063ffe52f369b167d93d9c170"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_official_recess_c2_export.rbe",
+      "size_bytes": 13494,
+      "sha256": "363d14051baf0aa20344402d824702035277a288c640db6bba18f5de98bf2d27"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_oracle_writer_safe_gate_bridge.rbe",
+      "size_bytes": 19782,
+      "sha256": "23b49321bc9c811671b8dbe2aa08f2f1bcae7a36e03748cc778fd5d8b89d7528"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_production_plan_dev_export.rbe",
+      "size_bytes": 29574,
+      "sha256": "3da006a80b7632288f77ff826da1d6e1820096ec739c83203609ebe4aa669f7e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_recess_c2_visual_dev_export.rbe",
+      "size_bytes": 17126,
+      "sha256": "c481e579dedfc987e646de2bf459b1c132300d603712e052eccca10f1be98a83"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_recess_column_visual_probe_dev_export.rbe",
+      "size_bytes": 17254,
+      "sha256": "24a244bf9622223913e6d8fa87d2085f674e852dc24ab0a6b1b097f1ba6396b9"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_recess_columns_sample_audit.rbe",
+      "size_bytes": 17158,
+      "sha256": "1bedcadbb5e810bb9f4289e52beec76f6686ae6a11e910a6e945323eafb66fa7"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_recess_contract_mapping_audit.rbe",
+      "size_bytes": 21190,
+      "sha256": "e2544f8a8990d53d8fac02838b7a1837d13ac67956c65276e99dc7af5c908686"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_recess_groove_format_audit.rbe",
+      "size_bytes": 18918,
+      "sha256": "634aab157452d8b94892d8e94f184040689e05e42a889473fabab5d3b1ad9427"
+    },
+    {
+      "path": "zz_mobtech_dev/core/maxcut_safe_readiness_export_bridge.rbe",
+      "size_bytes": 13718,
+      "sha256": "b871cbfd0e5d6b4b28cc30d4d17a8697ae73c492cf09b6d81e8bd69d2ffae3a4"
+    },
+    {
+      "path": "zz_mobtech_dev/core/metadata.rbe",
+      "size_bytes": 4390,
+      "sha256": "8d9a25664a4d6456e4a0bdd8184b18324afd002cc46f0474e3a3050bd205d14b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/mobtech_scale_tool.rbe",
+      "size_bytes": 128870,
+      "sha256": "4ed3102201b2c7f669e5cf6007eb0a52140b8004bc51e04bcabcc82e608a702d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/module_human_code.rbe",
+      "size_bytes": 14342,
+      "sha256": "9d8fd364517718f7250253e40c6c80a5abae474fc00468784f6e353ebd6ec303"
+    },
+    {
+      "path": "zz_mobtech_dev/core/module_lifecycle.rbe",
+      "size_bytes": 39222,
+      "sha256": "8245cacf2fedb383e66de860bb6b0b514cba5808eff3c9692f08d912dad88812"
+    },
+    {
+      "path": "zz_mobtech_dev/core/online_access_contract.rbe",
+      "size_bytes": 23398,
+      "sha256": "5deac7e5b9db0a8398daa8812f621fa33faba2fd47536fcf04bbc12da910924f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/online_access_runtime.rbe",
+      "size_bytes": 13974,
+      "sha256": "b990cb7b9969c4856005bc7737938c4b94350dde3303a90b62d0d82739ab47d2"
+    },
+    {
+      "path": "zz_mobtech_dev/core/online_account_lifecycle.rbe",
+      "size_bytes": 1558,
+      "sha256": "85791f77d11408cd4af4a21497ce86b59b48440e596dcae302860a108e25a3c8"
+    },
+    {
+      "path": "zz_mobtech_dev/core/online_update_runtime.rbe",
+      "size_bytes": 39894,
+      "sha256": "73740ce94a060eea8e1e4f698a0379ad7c382d21f17ea0c49501f5317b75968e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/operation_observation.rbe",
+      "size_bytes": 5686,
+      "sha256": "c05e086fc37bc94254e1ddf5372a1780de7dd2c5fb1c141471de66e42bd95bff"
+    },
+    {
+      "path": "zz_mobtech_dev/core/operations.rbe",
+      "size_bytes": 15814,
+      "sha256": "01295bbc5db251645a1b9c51e2460336a5fee4525e8718f3909bb88a8fd7a30c"
+    },
+    {
+      "path": "zz_mobtech_dev/core/panel_apply_operation.rbe",
+      "size_bytes": 8390,
+      "sha256": "68619125c0640f360857623a8e1e06f75983ebbaa5f2d9e38e99813e2178199b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/panel_apply_receipt.rbe",
+      "size_bytes": 4662,
+      "sha256": "26c815ada8e9e28c923a3fb148e971725f6a4ae49c309a9996f6f0decaf2168f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/piece_contract_v2.rbe",
+      "size_bytes": 71174,
+      "sha256": "990dea293f564832addbe29a7346a9317ee58f0cf9fd121be9dc2e07550ac7b0"
+    },
+    {
+      "path": "zz_mobtech_dev/core/piece_contract_v2_family_declarations.rbe",
+      "size_bytes": 10934,
+      "sha256": "f02b5cddd5ccac553681a91fb9eb4ffe57fd3790c4305d892074c5bbfc657e21"
+    },
+    {
+      "path": "zz_mobtech_dev/core/portable_materials.rbe",
+      "size_bytes": 32678,
+      "sha256": "113d4bfbac875168e76f51ea86d4bb9c37dbc508d1abc139e1292ad6d16c0324"
+    },
+    {
+      "path": "zz_mobtech_dev/core/portable_recipe_contract.rbe",
+      "size_bytes": 20518,
+      "sha256": "afc767a0276757c9beb94205a39614d4e6e7a40bcdb77a8eccfdcfde6ba7314f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/portable_submodule_contract.rbe",
+      "size_bytes": 29270,
+      "sha256": "5a50383cddc3dfa0756e1ae4885d2ce84dd3451dcedffe290e55ed630a122708"
+    },
+    {
+      "path": "zz_mobtech_dev/core/preboot_update_bootstrap.rbe",
+      "size_bytes": 1958,
+      "sha256": "f00ef83ae1e7611cd1183e8edb0e3944b6aab8270b72d49041b31beaad451eea"
+    },
+    {
+      "path": "zz_mobtech_dev/core/presets_inheritance.rbe",
+      "size_bytes": 49894,
+      "sha256": "6f74600952f37c8dd83a2e4e40a37d9da63320b03c401416f71be3f6fa215df3"
+    },
+    {
+      "path": "zz_mobtech_dev/core/product_channel.rbe",
+      "size_bytes": 6486,
+      "sha256": "dd43f31f1f31cfaa815dd536c000b1d438d23099815585eea3e02e9dae8429d7"
+    },
+    {
+      "path": "zz_mobtech_dev/core/product_health.rbe",
+      "size_bytes": 15510,
+      "sha256": "9e6bad7228b8e34f8e25ffb5eb68a15a72b31389e8486c2df174be0dde19ef87"
+    },
+    {
+      "path": "zz_mobtech_dev/core/product_identity.rbe",
+      "size_bytes": 3302,
+      "sha256": "3698f9772ee396e095becbf034f760970fde7d441deab049819dadbc5748564f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_contract_governance_audit.rbe",
+      "size_bytes": 4758,
+      "sha256": "fc5aa71a1ee41055b5aa152c6f5c847f760a63d733169b0e6b43bb721d38995b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_contract_master_gate.rbe",
+      "size_bytes": 38454,
+      "sha256": "d440e24b7cd86d2f8f7ae41dc1738238b38b341490af9b7f3eb0ab4135e54321"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_coordinate_map_audit.rbe",
+      "size_bytes": 44614,
+      "sha256": "8c28ff8f16de3e8c4ec6259ded581a244017f02683361377340a5ee935f56b8d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_coordinate_map_lite_audit.rbe",
+      "size_bytes": 47926,
+      "sha256": "c0ce1fb1186d72d452b335195ab588b09f2a726f3f884ff62ce0c118ca250163"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_coordinate_map_resolver_probe.rbe",
+      "size_bytes": 46758,
+      "sha256": "32c417bead655c98fba2faabaeaca4ec87676d21fecddac0c181be90ad62c5d5"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_core_component_contract_audit.rbe",
+      "size_bytes": 268998,
+      "sha256": "1ca88f527b82409777a04b08ec67d77b366f82604ef49af8803862de517d9a09"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_core_groove_contract.rbe",
+      "size_bytes": 24342,
+      "sha256": "989f6a6bbfdecacc705de2a7d0c9231730c371fb1f5c39768e7488c3d6c61955"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_core_groove_first_value_fix.rbe",
+      "size_bytes": 11286,
+      "sha256": "9a80d95bcb8a109f860de29936192d2f5299bcad99ef2e2704b6c4234d40f9a2"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_drill_vector_classification.rbe",
+      "size_bytes": 21654,
+      "sha256": "0c06ee462266b327dc7e79021ac62a35783fca3e69fb83f5dafdea731f6ff97f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_export_artifact_gate.rbe",
+      "size_bytes": 34358,
+      "sha256": "300c1ff4868f3784cd01bbd2f51f4944a81669adcc9cb48d778ee1bf591275aa"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_export_confirm_screen.rbe",
+      "size_bytes": 14134,
+      "sha256": "a2533f062d5ce77effaf045b4018f50e5b3de33954e3408ea3cf2f38a7efd8dc"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_export_confirm_screen_wiring.rbe",
+      "size_bytes": 3702,
+      "sha256": "8cde7074af716e2388e53171c87bf758b978793c6cb54333db45c91b98cba3b7"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_export_multi_module_exporters.rbe",
+      "size_bytes": 22182,
+      "sha256": "2f5520077b85f8b4f878b63a6ff6658cd9f31778591c966409c9ea035be0de32"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_export_multi_module_plan.rbe",
+      "size_bytes": 8934,
+      "sha256": "0a249d215f4c249cd45af4ec8981f35d93777aeb3a75340ab83d5d386ad5802f"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_export_scope_guard.rbe",
+      "size_bytes": 5014,
+      "sha256": "2b97886c912650c9bb01ddadafc465f7d726e8abf887af1a45ae7d79ee0c6457"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_export_smoke_audit.rbe",
+      "size_bytes": 91574,
+      "sha256": "f1142cc775b1ad565ac2421e29a73515c13cf4ff64d015aa6875f4ce21a7c6d6"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_guard.rbe",
+      "size_bytes": 38678,
+      "sha256": "ec44f95519d92091af736957fcb69385213c6bc808c5df6834407b152ff9b385"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_guard_math.rbe",
+      "size_bytes": 3318,
+      "sha256": "c592bc2bc430c3e17efa4f74a976667ef03a2d94eea02a7a5a4d0e9d66b0e511"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_machining_parity_bridge_audit.rbe",
+      "size_bytes": 334646,
+      "sha256": "0a69a447eefaf72cbadd56a91da08c4ab7c1532fa3bbdf7f242d4b4c6badf808"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_plan_v2.rbe",
+      "size_bytes": 46390,
+      "sha256": "1f8140e5306d9cd6c6e017fbb612a0f97eafdb2dd8b1287632605964b2e1244e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_plan_v2_adapter_bridge.rbe",
+      "size_bytes": 8950,
+      "sha256": "c296e98628af26bf64f590e8c3cfdf24f48204220d0cf9f9dd1b0db3a847c0ee"
+    },
+    {
+      "path": "zz_mobtech_dev/core/production_productive_face_resolver.rbe",
+      "size_bytes": 63782,
+      "sha256": "81ac3e156c569a85dd49e7eefc5f61d599e211dbabf0b60f854e3d17d98a5598"
+    },
+    {
+      "path": "zz_mobtech_dev/core/project.rbe",
+      "size_bytes": 4294,
+      "sha256": "0de88f0c6a83d3fddceb3dfb29caf5364bf0efcfb5f4ba8e4f1ff33e42e234e6"
+    },
+    {
+      "path": "zz_mobtech_dev/core/project_integrity.rbe",
+      "size_bytes": 42390,
+      "sha256": "867001899b11f1ad7ea4315c4334273a35f110d099d4cc524a39742a5a45d3d9"
+    },
+    {
+      "path": "zz_mobtech_dev/core/protected_engine_contract.rbe",
+      "size_bytes": 4726,
+      "sha256": "6fef22a8823810761812f6e8fc72b06132cdb752b47c7912afc58f14f2041ce2"
+    },
+    {
+      "path": "zz_mobtech_dev/core/protected_runtime_contract.rbe",
+      "size_bytes": 9718,
+      "sha256": "65780bde9dd4eb9b9c71ad0da87c1e84b3f3357623d0e27a276a551cede88430"
+    },
+    {
+      "path": "zz_mobtech_dev/core/providers.rbe",
+      "size_bytes": 8262,
+      "sha256": "08019bb9c8710e68735f49d53e8e0cd49931728b03875c0e897083718b3d0fa9"
+    },
+    {
+      "path": "zz_mobtech_dev/core/public_beta_package.rbe",
+      "size_bytes": 40006,
+      "sha256": "d8b249b6434ca719091e3af40a140c27396ed65098bca240d7ce1fca3f2e93cc"
+    },
+    {
+      "path": "zz_mobtech_dev/core/public_cloud_definitions.rbe",
+      "size_bytes": 77398,
+      "sha256": "038b0828cb11d369eebe688f3f377319459f3f606b2196e0820255b9e7360cf7"
+    },
+    {
+      "path": "zz_mobtech_dev/core/public_cloud_fitas.rbe",
+      "size_bytes": 7846,
+      "sha256": "de4128dd68f414ff2a055199595cfe1cbd27c61bb1b0c98665e8843e9f69d091"
+    },
+    {
+      "path": "zz_mobtech_dev/core/public_cloud_full_report.rbe",
+      "size_bytes": 21238,
+      "sha256": "523d52913ce96be360e3ce5d289e3b520662f9b32ba94cf542a19caee042d6f0"
+    },
+    {
+      "path": "zz_mobtech_dev/core/real_usage_pilot.rbe",
+      "size_bytes": 13062,
+      "sha256": "8475ba09b26ec0dded82cbb14160c815e511f6626f6af7a49de5f5f38f031017"
+    },
+    {
+      "path": "zz_mobtech_dev/core/release_center.rbe",
+      "size_bytes": 12006,
+      "sha256": "c1ae36bd5b95bfd10b80af66ad542f1c166dfea376b9e55073c2cc11ec3aa760"
+    },
+    {
+      "path": "zz_mobtech_dev/core/release_checklist.rbe",
+      "size_bytes": 6230,
+      "sha256": "aae2508e088cfbdce77cc526846001260412ea20e119a1237b88361af441939d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/release_notes.rbe",
+      "size_bytes": 12534,
+      "sha256": "9409cc548ceeec82dcd62198e8029069b1c458f510eb1ffe872754e64b53febc"
+    },
+    {
+      "path": "zz_mobtech_dev/core/release_preflight.rbe",
+      "size_bytes": 11062,
+      "sha256": "e2af64d9eb5e24b5db31280bd1e506bd9c8394e948d20d326c4e27899137ae3c"
+    },
+    {
+      "path": "zz_mobtech_dev/core/release_snapshot.rbe",
+      "size_bytes": 17782,
+      "sha256": "af5d4eb49636f8638fb9f07e600204383c3ce6a8bc4fddc45362f12e1f9d020d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_frame.rbe",
+      "size_bytes": 24246,
+      "sha256": "260b3481b8893996629bbfd4c8cae59edd8d70594b88fee44f3d57a8024dd250"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_guard.rbe",
+      "size_bytes": 211718,
+      "sha256": "ecf81bef53ad8059d61ea5efae1e0cd8797242cd27ae05afe3e6c01c09c0ff3e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_guard_math.rbe",
+      "size_bytes": 5590,
+      "sha256": "5f9999e67d91da2b3d244cb678b51b7b30e4a9b6d5c5ed6452ecaea305d33a79"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_guard_snap.rbe",
+      "size_bytes": 9494,
+      "sha256": "7e5c4bee4b92bd396f71981d70d04e06238a733873b961151b93463fa3a601fe"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_mask_rule.rbe",
+      "size_bytes": 5334,
+      "sha256": "1f49bd48a825201bf1ec1953d197f3c9b04e48bab332f8d3cb0e4bff252e6903"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_regeneration_diagnostic.rbe",
+      "size_bytes": 18646,
+      "sha256": "84b2c30fdc61b17b79d2f14307f117d0dd0b5ab37f0ce3a8aafbaa89b333b3da"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_regeneration_preservation.rbe",
+      "size_bytes": 7814,
+      "sha256": "4c43989d9d0dd2a9a1281819d4565fc2aa5bacec7bdb842686069f66497ec0ae"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_scan_handoff.rbe",
+      "size_bytes": 4870,
+      "sha256": "5983686843ba464b650d5dc129dcf34b97db1eb0ceb8393e18dcf1620434b837"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_scan_requests.rbe",
+      "size_bytes": 13590,
+      "sha256": "6e8f4a7182e04e70973482f4e3f441baee71158d1e15731510220dd7469b7bca"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_scan_runtime.rbe",
+      "size_bytes": 11254,
+      "sha256": "052cea7c82ed5e6becd46b9ce622c4707344db7bcbca32c3744ae69fdc6b276a"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_scan_trace.rbe",
+      "size_bytes": 3654,
+      "sha256": "fb4462f7db17f97eb0cafd07baaff5e76259318d7440e2d2414b9df13ecd0dd0"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_tool_sentinel.rbe",
+      "size_bytes": 21830,
+      "sha256": "60638a35cbc65b5e6290287c1eff936b44af195862883d31de25f776f1ce3253"
+    },
+    {
+      "path": "zz_mobtech_dev/core/scale_ux_contract_sentinel.rbe",
+      "size_bytes": 66710,
+      "sha256": "f88307dbe96f99d8648abc91f15b9f5fdd82ba566e82cbe7f5b585529c6913f0"
+    },
+    {
+      "path": "zz_mobtech_dev/core/selection_observer.rbe",
+      "size_bytes": 40070,
+      "sha256": "03c41eb347a05759c1f2c65220a65c536eef8a7abcdffb5c164a951f21fc9ba5"
+    },
+    {
+      "path": "zz_mobtech_dev/core/servicos_enviar.rbe",
+      "size_bytes": 41782,
+      "sha256": "cf4b03f9e16666d2cf714448f8cd1e46fd118e6b1f6cebb18b70269248bb856d"
+    },
+    {
+      "path": "zz_mobtech_dev/core/servicos_send_chain_sentinel.rbe",
+      "size_bytes": 9558,
+      "sha256": "1658a1b8e11677ffc77f1836f9e00eacf96a972636cabd189c13198ad15df7de"
+    },
+    {
+      "path": "zz_mobtech_dev/core/session_monitor.rbe",
+      "size_bytes": 61382,
+      "sha256": "6f06c63cc8863ab7e68b0f066a7743de79baea844135d3305b1f8e8d05ffb1de"
+    },
+    {
+      "path": "zz_mobtech_dev/core/stability_milestone.rbe",
+      "size_bytes": 7510,
+      "sha256": "773f01314acd4103f0ed9d7e33959c66c387e9f3f4ab79fba8d1933f10b92c1e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/stage_context_guard.rbe",
+      "size_bytes": 4934,
+      "sha256": "ee326be20da6639f755c97115a6c1605c75744327c149dc34b3fd824e3601942"
+    },
+    {
+      "path": "zz_mobtech_dev/core/structural_surface_projection_frame_unify.rbe",
+      "size_bytes": 19286,
+      "sha256": "42cd4b4629d360e12a53515adec01b655e6d81bbc4d7004d8720fec75cd2bc5e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/submodule_recipe_contract.rbe",
+      "size_bytes": 9926,
+      "sha256": "d6eb8877d95b306494207cdfeaf3a9a50a052fcbab2cfc7eb5a3650a29a10957"
+    },
+    {
+      "path": "zz_mobtech_dev/core/technical_full_audit_report.rbe",
+      "size_bytes": 14054,
+      "sha256": "6613869f55cc3952d6b5bd1928e7411a385850f333552ce42b411b4350494a0e"
+    },
+    {
+      "path": "zz_mobtech_dev/core/test_assertions.rbe",
+      "size_bytes": 1238,
+      "sha256": "1c2e0b43b59d3e3308b011c4c127c660a36508aa73ff2f03d96763d682e92c1b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/test_runner.rbe",
+      "size_bytes": 661478,
+      "sha256": "84ad05015d227e03ab939419ac8d23b772dbacb69b37c6181ece50a7d9751a80"
+    },
+    {
+      "path": "zz_mobtech_dev/core/texture_folder_guide.rbe",
+      "size_bytes": 6310,
+      "sha256": "d1719e5c3ca22e04bb7d66b6b3c3fddfa2377c84e7406b2303995859b90f8a77"
+    },
+    {
+      "path": "zz_mobtech_dev/core/texture_horizontal_mapping_diagnostic.rbe",
+      "size_bytes": 18966,
+      "sha256": "8f15ae2a1da4e5bf95762d86bd21fc7c0619aed305979ef666491bd88315c0c9"
+    },
+    {
+      "path": "zz_mobtech_dev/core/vectric_contract_parity_audit.rbe",
+      "size_bytes": 125926,
+      "sha256": "8e3c72f72bf8118241c6bd850f0d04af022ed9bd4e2390edf63fc64545cd1adf"
+    },
+    {
+      "path": "zz_mobtech_dev/core/vectric_groove_contract_bridge.rbe",
+      "size_bytes": 11142,
+      "sha256": "fb9cb74fdc7d516376607e9330360a77937006cf1fa1c2d53602774e7169d1af"
+    },
+    {
+      "path": "zz_mobtech_dev/core/vectric_groove_sheet_orientation_fix.rbe",
+      "size_bytes": 3446,
+      "sha256": "778f9c31cd40065d4f3b69b62fb8ec332c4690aef0ae49c6e99449aaf19b0e8c"
+    },
+    {
+      "path": "zz_mobtech_dev/core/vectric_panel_back_l_edge_direction_fix.rbe",
+      "size_bytes": 7974,
+      "sha256": "43d6c21969b625521c48e59a2bd395d0cdb8d98d477a6465a1105e8e99e42e9b"
+    },
+    {
+      "path": "zz_mobtech_dev/core/vectric_panel_l_edge_orientation_fix.rbe",
+      "size_bytes": 6550,
+      "sha256": "8e19dd8cf3170ada18bd8d785912360de471d23bfcc4f8e57aaa24eb3fc55752"
+    },
+    {
+      "path": "zz_mobtech_dev/core/vectric_production_view_frame_contract.rbe",
+      "size_bytes": 17702,
+      "sha256": "5bc7a595a1254391011564d98e4f656d35f09b216921c5fb5b753a93a009fdaf"
+    },
+    {
+      "path": "zz_mobtech_dev/core/warehouse_readiness.rbe",
+      "size_bytes": 23030,
+      "sha256": "8f8e1e7204758518481630f29922a550a9cd38a70a4ca59a61d0cd3a152ccf0f"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/componentes/pino_minifix.skp",
+      "size_bytes": 54067,
+      "sha256": "9f8628af17581f824f20e43f1d388ffda114cf93100454ac0d14ab57d425a365"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/componentes/pino_vb.skp",
+      "size_bytes": 53152,
+      "sha256": "0a443ebad1f5c3b6699364793bc66b51698e9573a7976cf8c0cab8143fee2c5e"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/componentes/tambor_minifix.skp",
+      "size_bytes": 25203,
+      "sha256": "c13130153bdc99e0f43844e24e7fe3bc5f3b2b8c98cd8475e2fcdeafcd1b98be"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/componentes/vb_36.skp",
+      "size_bytes": 50547,
+      "sha256": "64effcf612a5ffc0772ffe7c64218a37978f4a6332e64930a88306c0d9e93289"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/devices/devices_manifest.json",
+      "size_bytes": 12173,
+      "sha256": "de1c8264f74ab1a9eeee0077941dee3d04043278989c9de8eeba81a2bc83e1c9"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereo_l/aereo_l.rbe",
+      "size_bytes": 518,
+      "sha256": "fd8b25c78ba3adb3ebb2ec1a25083296965f77566ae65bb6d9f17b5bf7785751"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereos_simples/aereo_basculante_duas_portas_h.rbe",
+      "size_bytes": 518,
+      "sha256": "4de41a476bf4e2ae6a79d792c5ce385a8c3d999de7d8b63d13d1bfa0611851a0"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereos_simples/aereo_duas_portas.rbe",
+      "size_bytes": 518,
+      "sha256": "6aefc0f55bcd7804d7ff41366195a73376a146289d4ed3496b744cc4048c4ddc"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereos_simples/aereo_duas_portas_receita_limpa.rbe",
+      "size_bytes": 534,
+      "sha256": "68fcf16a3470afd04494fe84aa6ff4826781366922782eb5f0784eda24cab47f"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereos_simples/aereo_quatro_portas.rbe",
+      "size_bytes": 518,
+      "sha256": "388f641804e83e7823e59b64432f7c86d47d20bfe25dc059ec64ab19139d5479"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereos_simples/aereo_tres_portas.rbe",
+      "size_bytes": 518,
+      "sha256": "517b2bb31c9dccc8808f62ce5d3c35c818a6e3bfb58fecb55aabfe16301e3a37"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereos_simples/aereo_uma_porta.rbe",
+      "size_bytes": 518,
+      "sha256": "14e712304d58223e6f425bac516333db43800b4ee86547db69ff035f08b3a7ca"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/aereos_simples/nicho.rbe",
+      "size_bytes": 518,
+      "sha256": "636cd06c5b94396e6ef8f2ea48a0bc765a6fef143aa4af1dde719dffc49c7bfe"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_conjulgados/balcao_conjulgado_3v.rbe",
+      "size_bytes": 534,
+      "sha256": "03dc3fde6ac0855c853812d86df0c752503adae763a481dfe756450d6261424d"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_conjulgados/balcao_duas_portas_vassouras.rbe",
+      "size_bytes": 534,
+      "sha256": "93c88712af7afffa3cc3085bdf2a5a6920e0b5423211cf9847c10e56046ac257"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_conjulgados/balcao_gavetas_2p.rbe",
+      "size_bytes": 534,
+      "sha256": "7d43ecfaa2f6640b1a7250d2326ba05b3851c3bfbfd9f6863cfe317d45ede28f"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_l/balcao_l.rbe",
+      "size_bytes": 534,
+      "sha256": "211a6c4687d0652e4fd2982e1193b7d27d96f0f5e8ccbfccdb589b5dbd54eaa2"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_basculante_gaveta.rbe",
+      "size_bytes": 534,
+      "sha256": "19cd8524d974364a52830901d67a8468b001ec99c03ae70adf0195c29bfb8898"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_duas_portas.rbe",
+      "size_bytes": 534,
+      "sha256": "ed4d51e1baf8317d0e57213063d2fad9d169ce8db9e8380b82a8a9f0389d14a0"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_gavetas.rbe",
+      "size_bytes": 534,
+      "sha256": "6577773ab7195a40381e032d0f9ab06aac79f077e1c5495ba74c3ea25417a926"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_gavetas_editaveis.rbe",
+      "size_bytes": 534,
+      "sha256": "67c3fa80b0be21d9d6f85b28700043a4b3228dbfae6998ed1b0bfbec148fe77a"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_porta_temperos.rbe",
+      "size_bytes": 534,
+      "sha256": "6f7094947b9ee5b614fcaa4735c90e7f85dad04b6e878083614078b67c30f101"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_quatro_portas.rbe",
+      "size_bytes": 534,
+      "sha256": "d91798dc876937fbbe0ba5088c8578ff18752d03254332bba54420acc74e1f88"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_tres_portas.rbe",
+      "size_bytes": 534,
+      "sha256": "1b1d40a36544f7b3cb1fff43018969195e0d10ae43f68cc0ea89d8f33e2c498a"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/balcao_uma_porta.rbe",
+      "size_bytes": 534,
+      "sha256": "1b445108d127090241af20aa89f9865aa5f080a360c6b9ee449f36158de986ad"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/balcoes_simples/gavetas_iguais_embutidas.rbe",
+      "size_bytes": 358,
+      "sha256": "940849cf76d7c5c35e180b40cf4bff5b61b0e297528bd3df89f5cc404944922c"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/diversos/expositor_l.rbe",
+      "size_bytes": 534,
+      "sha256": "8bc6e84e18cd548278a59e41ed50d1bb1ca106cfe14969d255a7ddf444836cf6"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/diversos/painel_ripado.rbe",
+      "size_bytes": 534,
+      "sha256": "a6b93825f2f57a76b3bea36e8994e9222508f27f3d84c5b2fecab6f143c7183b"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/diversos/torre_geladiera_alongada.rbe",
+      "size_bytes": 534,
+      "sha256": "321cf790c988756d521d8d71e843249ed153ac15243bd055ead0715605efe8fa"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/pilotos/lateral_avulsa.rbe",
+      "size_bytes": 966,
+      "sha256": "29670dc52f06804325203c2af006e1facff9cff584affc03adf1a22b71ca6804"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/pilotos/lateral_avulsa.schema.json",
+      "size_bytes": 507,
+      "sha256": "9009dece6c3fe77f07f6a9237668119ac8fe761faa1917d2ed77345b3384c7b0"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/tamponamento/lateral_tamponamento.rbe",
+      "size_bytes": 534,
+      "sha256": "735b02f3d66b3422c23be93ef19ede1f1e6c229f691295e0c906a2ec73f484fc"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/tamponamento/tampo_tamponamento.rbe",
+      "size_bytes": 518,
+      "sha256": "77a8ab372434841d0c61c8ee9582798d481422cf6a1153dc8ed266d70bdb8efb"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/tamponamento/vista_horizontal.rbe",
+      "size_bytes": 534,
+      "sha256": "f53d97dfc903f3033fe828c26132f63b2b4f13eae1974d67bdda084cecf5dbe8"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/testes/teste_caixa_aereo_v2.rbe",
+      "size_bytes": 742,
+      "sha256": "00846352617f7709e9e3f403c22a8a408564e38a4006da6d7f4738e6e5315650"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/modulos/usuario/peca_avulsa.rbe",
+      "size_bytes": 694,
+      "sha256": "a96b565229e13d30e0bbfc4a6264763865ff90a6f071d5fc468c1395f6a6dfcf"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/dispositivos.rbe",
+      "size_bytes": 854,
+      "sha256": "2679c90960035ab3a035512e11b622afb1bb04c71430cff411db1c68af21b7e9"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/espessuras.rbe",
+      "size_bytes": 710,
+      "sha256": "ec36e0596dfc7b05aa2573973451020ce85d1e810e25be0e60628952243c74bf"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/espessuras_editor.rbe",
+      "size_bytes": 1398,
+      "sha256": "27873c9c046b8c85c00e82eaacc54966d008f6d81ed05be474f2e1def48d07e4"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/funcoes.rbe",
+      "size_bytes": 103078,
+      "sha256": "f491bd0884e067785ad0a2ae1c3687a7dd817a08ebd9b9d984d7e4ba86420684"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/runtime_values.rbe",
+      "size_bytes": 8086,
+      "sha256": "767ad648e2368b2c253a14cebd9fcc7d3efe9604482fb5be55d4ec1c633ab9f3"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/teste_texturas.rbe",
+      "size_bytes": 1590,
+      "sha256": "3c6ec6291438ee4603241332a3e45d3549296527c3fe6c72ec0321245dee91cd"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/texturas.rbe",
+      "size_bytes": 1254,
+      "sha256": "8d232fe789fa24c17e773047075ea840eaaefbd339e23665bee49a5800bfd961"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/motor/texturas_editor.rbe",
+      "size_bytes": 1078,
+      "sha256": "0ad92ef7ae5f7aa36261989d6bdf4222bc3abcb24e79eebdfc66daecd54af460"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/online_submodules/caixa_aereo_v2.json",
+      "size_bytes": 3604,
+      "sha256": "0e2fd3201b8ff6d38d3d93644b6071301c6edc57856b1e591b69075a42bb6854"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereo_l/aereo_l.rbe",
+      "size_bytes": 998,
+      "sha256": "db27692758666e9e96c2a2cd5ab4eb6925abc89c7740c9b7693d4a3d4caf24a0"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereos_simples/aereo_basculante_duas_portas_h.rbe",
+      "size_bytes": 1270,
+      "sha256": "fb0ea59a36a71ae81f7d1906c25092586c882a18af8d758a9a20ead79cc6914b"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereos_simples/aereo_duas_portas.rbe",
+      "size_bytes": 854,
+      "sha256": "bfc610bb1a168fcfc8fd4049b11f1b685fced361f727cd48041623fbf02d93c0"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereos_simples/aereo_duas_portas_receita_limpa.rbe",
+      "size_bytes": 870,
+      "sha256": "d1a52900f4b2906bbf742d9a808e092f7bfa1e05f5c87335f949e97b3262f1a9"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereos_simples/aereo_quatro_portas.rbe",
+      "size_bytes": 1926,
+      "sha256": "b510f6be46ae03a62d0d8da2b06fcb16ee08b8e8ca1b62323862326724578ed0"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereos_simples/aereo_tres_portas.rbe",
+      "size_bytes": 1222,
+      "sha256": "952f4ef94dd631764da8c51a384449c9c179e02b2fa7b14780030dd52e11c1af"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereos_simples/aereo_uma_porta.rbe",
+      "size_bytes": 854,
+      "sha256": "292d3b9ab27b772ac1fb315af5c9177529204d5a5c5e521b2e6f1e7070af3172"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/aereos_simples/nicho.rbe",
+      "size_bytes": 806,
+      "sha256": "b97c0c35afe7b00769c17858b85b4b58f66c87575c284e3905d538176037c8f1"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_conjulgados/balcao_conjulgado_3v.rbe",
+      "size_bytes": 1926,
+      "sha256": "b88f41fbe2aaf5d8b75828c06600f414813a25297cd287d4ff5ddeb949e1edcf"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_conjulgados/balcao_duas_portas_vassouras.rbe",
+      "size_bytes": 1606,
+      "sha256": "de4141c4340915d3bc23825a19d741ed965fba111cbd4277bb97e5ffb0f449be"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_conjulgados/balcao_gavetas_2p.rbe",
+      "size_bytes": 1382,
+      "sha256": "06e1510a67e4ec16a44be311103954e59e15cf426215ea8ac7bfecb19db4af83"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_l/balcao_l.rbe",
+      "size_bytes": 1078,
+      "sha256": "ee8232442d274b730ec3e136566c29a38e29a8c1b970ac878424a238e48eaaea"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_basculante_gaveta.rbe",
+      "size_bytes": 1478,
+      "sha256": "b58f5ff70fe1d03f6fa39b5a5b75bc2bb0ae31b18b9cf58e4021e054050763bc"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_duas_portas.rbe",
+      "size_bytes": 966,
+      "sha256": "2a9161c8eff9a5174b55ac5a5ecceb484e6b96b026912533a29217db023f3817"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_gavetas.rbe",
+      "size_bytes": 966,
+      "sha256": "1e3184416027a5c0ee110dabd87e66917271d7dd2f8579fd7d07cc3cf626ee1b"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_gavetas_editaveis.rbe",
+      "size_bytes": 1622,
+      "sha256": "e1541e7709d6abe33600aab68ab6b956858a0ddcdbea0c3a09abe9c50721f62f"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_porta_temperos.rbe",
+      "size_bytes": 1046,
+      "sha256": "d7f853e051675f2e2dec29fad8e19c6af7ef1bbda56316a36f80e58b48673002"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_quatro_portas.rbe",
+      "size_bytes": 1446,
+      "sha256": "f1a9010b49eb819c32b5487edb04117e24ef54060771c0267275b7fcf5136b75"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_tres_portas.rbe",
+      "size_bytes": 1398,
+      "sha256": "d823b31d1dce8d6a407eb8e884eebefff1baf6a9524842039a178eb3ad10a21c"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/balcao_uma_porta.rbe",
+      "size_bytes": 966,
+      "sha256": "9e6563c12da675cf934575865cae1a53a77b4511b7a0b1b5bc4fd0e34a4ab738"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/balcoes_simples/gavetas_iguais_embutidas.rbe",
+      "size_bytes": 2454,
+      "sha256": "11ce4bc21e978f59bafcf300ec8d77262220783eec11ef7954e21e1924ed21ee"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/diversos/expositor_l.rbe",
+      "size_bytes": 1862,
+      "sha256": "186738099eba719d3321f76a82f06c965cae0471d6d3764935861fc77e5fc6f8"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/diversos/painel_ripado.rbe",
+      "size_bytes": 1430,
+      "sha256": "4836e45632aef86af608d4347adb79d8b31ce6022bc01f8cfe9340bb8ef9e708"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/diversos/torre_geladiera_alongada.rbe",
+      "size_bytes": 3398,
+      "sha256": "627d0738e561e79df51352f758cb7516477e231951800c37b9babede36928bac"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/pilotos/lateral_avulsa.rbe",
+      "size_bytes": 1110,
+      "sha256": "aa90ac8af48432a0e639146eacee132635dd93aad2f05128f072feaf4d30896b"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/tamponamento/lateral_tamponamento.rbe",
+      "size_bytes": 742,
+      "sha256": "59ecd0543a37e4b50b6aafee9e77e073baff734188661a6c16722598eccaf543"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/tamponamento/tampo_tamponamento.rbe",
+      "size_bytes": 726,
+      "sha256": "bd6c5ba9c4282f74f4ce6656991ee31b38a993119e540930eb4f9d69ae3f3b2e"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/tamponamento/vista_horizontal.rbe",
+      "size_bytes": 822,
+      "sha256": "100369c5495ef2418b4ad798e9b6279240a84320267af91092faa0e7ba8d41ed"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_recipes/usuario/peca_avulsa.rbe",
+      "size_bytes": 1622,
+      "sha256": "0f3e57543b0baf9e6a251d6de908deedb406df63fd3aba9410735efa6df5c282"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/divisores/divisor_h.rbe",
+      "size_bytes": 2278,
+      "sha256": "087e1384fedf9dc58eeb8f5fe82958324701d111a7db898b2905b3f5b6f0b14f"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/divisores/divisoria.rbe",
+      "size_bytes": 2038,
+      "sha256": "5f2345e1a799c5d1818a6550bb09c9abe4b563aa75890a0a906a177e9142ddb6"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/estruturas/caixa_aereo.rbe",
+      "size_bytes": 5222,
+      "sha256": "334505d3072e7a3e128075272c23fbb0934d7e6d7f954be03a75ead654225e14"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/estruturas/caixa_aereo_l.rbe",
+      "size_bytes": 6006,
+      "sha256": "b1c900a6bf7b38c6bbfccf89dba857d40d63b59dd84a36266658df2a34fd013c"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/estruturas/caixa_balcao.rbe",
+      "size_bytes": 7766,
+      "sha256": "65ab39734e1188b3a4d1134d6192dc84f214cf3e3bc891b050e38155dd236083"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/estruturas/caixa_expositor_l.rbe",
+      "size_bytes": 6582,
+      "sha256": "f75f7b508a985eef3f03f309f9c8f6b08eb33015c55c63d01cfaecff8e17c782"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/estruturas/caixa_gaveteiro_sarrafos.rbe",
+      "size_bytes": 3286,
+      "sha256": "8d60d65083b90e0e4fd24fd33b5573657a8177da878e9aab861aaca1e50be8fc"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/estruturas/estrutura_painel.rbe",
+      "size_bytes": 2918,
+      "sha256": "8a8a06f6f2e16f1878c0512f02d24ddcc214c3626fe34c4d3f118f4c46fa60f4"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/frentes/duas_portas.rbe",
+      "size_bytes": 2134,
+      "sha256": "977f5aa915875164386aed990e68d7e8fdce25a3e23165e44aba10cb7cd70e35"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/frentes/duas_portas_l.rbe",
+      "size_bytes": 2166,
+      "sha256": "ff643563f9d15e7a2dba8ff70e9bdbad12711f5bf926fea6d0bb754bd722f152"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/frentes/frente_gaveta.rbe",
+      "size_bytes": 1670,
+      "sha256": "3fda3ce38ea6134076321e8cecf312ccda1fa3892e1746af4ce7fd43c8b5720e"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/frentes/ripado.rbe",
+      "size_bytes": 1750,
+      "sha256": "d1095cda0108cdbd1a0f948959b458b197aa5aaf608e411aa1d43cbb3e512023"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/frentes/uma_porta.rbe",
+      "size_bytes": 2086,
+      "sha256": "4cfb3f0a32ed8d4cbbc5c94cbb74d451bc52fd8a0ac2bb8f6430678e71ae5e65"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/interno/gavetas.rbe",
+      "size_bytes": 3590,
+      "sha256": "1dfee1f3b8f9bacf72e5554f24943316b56d33bcee41ee66f5367494a7e054df"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/interno/prateleiras.rbe",
+      "size_bytes": 2134,
+      "sha256": "79c5427f0b0de271627f89e01310208633df9229e56ead621fdfd7d8b4ebfe80"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/interno/prateleiras_l.rbe",
+      "size_bytes": 2166,
+      "sha256": "f2fe8a5dde07a669af419cc4dce908ad3bf8537a506b966f954cec4241d81553"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/interno/prateleiras_y.rbe",
+      "size_bytes": 2582,
+      "sha256": "80b7c71ca5954c3af48d4bc72854908386d17734f64b302648f8211c2d52530c"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/tamponamento/lateral_tamponamento.rbe",
+      "size_bytes": 1718,
+      "sha256": "8145c99ea7c1fc5ccb831c1f61fde5e88e9e4bd33274c9c0997bd7c0edd9e9f0"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/tamponamento/tampo_tamponamento.rbe",
+      "size_bytes": 2838,
+      "sha256": "3924edaca77af6c1b84bce294cfac2f5405eb8acba4ebdc156ac828c7db0945d"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/tamponamento/tamponamento_aereo.rbe",
+      "size_bytes": 4662,
+      "sha256": "66daf46fe708a74e9d64d628d002d9d3007e2e38227d649b30a012712705f627"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/tamponamento/tamponamento_aereo_l.rbe",
+      "size_bytes": 5622,
+      "sha256": "25eb07781b617755ad8390d89db0b91ad2e2b5cfbb418775479d75a49a42b861"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/tamponamento/tamponamento_balcao.rbe",
+      "size_bytes": 5126,
+      "sha256": "08baf5920d94d0515050d964c1da0b1b7368357665ac5fb0d693275ba705875e"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/tamponamento/tamponamento_balcao_l.rbe",
+      "size_bytes": 6486,
+      "sha256": "626e133c9a063f6ae7a205a2341b503b98a9c8ea43425467b11e4e912a1db2fd"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/tamponamento/torre_geladeira_alongada.rbe",
+      "size_bytes": 4630,
+      "sha256": "b1f78ae0586ece33b75895db827422b8ef61dcd67096c357c45233f631607299"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/portable_submodules/usuario/peca_avulsa.rbe",
+      "size_bytes": 3718,
+      "sha256": "5fe00f3f9d0c503ed8d355ab3257526b330f1b56921a3122c37328e7a9498954"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/divisores/divisor_h.rbe",
+      "size_bytes": 5894,
+      "sha256": "e84868d18303b1bcc0c4965ba99c772c66798b8ec10e1fa515c9dbbb97de3c71"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/divisores/divisoria.rbe",
+      "size_bytes": 7654,
+      "sha256": "51b59106eb9a7f9935bd6971dd91f59ba1a2e7de524031e35459c4ddf7302767"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/estruturas/caixa_aereo.rbe",
+      "size_bytes": 18150,
+      "sha256": "3db1d34b9607fd5ae09aae6b46907eeaba4c4b368d8bfa017cd5261086416538"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/estruturas/caixa_aereo_l.rbe",
+      "size_bytes": 19318,
+      "sha256": "8383e82c18071e182402efb16c9fd456ac35925bce3a31dbcc27006d05e17846"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/estruturas/caixa_balcao.rbe",
+      "size_bytes": 25430,
+      "sha256": "0daa8867eab9d943760336a2443e5a0da9d680f3fbc2b60707769817a68e0692"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/estruturas/caixa_expositor_l.rbe",
+      "size_bytes": 14822,
+      "sha256": "626457cbf03f87c30996694a18471242b9771f62eaab9eda5a5730bd8fff3cd7"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/estruturas/caixa_gaveteiro_sarrafos.rbe",
+      "size_bytes": 4294,
+      "sha256": "afb0a594bef8b548ea8ef2b3ca137c49dcc80c07bf120ca4e2ec69da6efe6a31"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/estruturas/estrutura_painel.rbe",
+      "size_bytes": 5158,
+      "sha256": "bf6bbefc5baf563247b12762e22e1693902482cf33a06f401434e6780b23b361"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/frentes/duas_portas.rbe",
+      "size_bytes": 3862,
+      "sha256": "0c611b55032603a7fe00321c5481b84d241d1139e315ee4cf0e5069d52d62967"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/frentes/duas_portas_l.rbe",
+      "size_bytes": 4166,
+      "sha256": "75ec494a86304b698fe159b9c4feb29c2e303311311e29f744293bb444e80dc5"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/frentes/frente_gaveta.rbe",
+      "size_bytes": 2374,
+      "sha256": "f9b6537f1b5bf48c0208eb275fea0e72b1d58ae54377398eb6db791d113af8a7"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/frentes/ripado.rbe",
+      "size_bytes": 2214,
+      "sha256": "5d27daababfed6ad1fb82a02e7041a26d22d14acbbc7b5c9672a178bdfb05da9"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/frentes/uma_porta.rbe",
+      "size_bytes": 3670,
+      "sha256": "d6380e074e50fb0d8f9c76c022992495dfdd3f4af4f848e7ddfc55c04b712f8d"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/interno/gavetas.rbe",
+      "size_bytes": 12934,
+      "sha256": "ecc86096addc3846eb42dd5b3ca5771dd1eadf6042d712389408c035ffa19b08"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/interno/prateleiras.rbe",
+      "size_bytes": 4214,
+      "sha256": "611f947e2d31b3b3def04995b2860245c052b9dc2761860807cb7d10e3839287"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/interno/prateleiras_l.rbe",
+      "size_bytes": 2902,
+      "sha256": "02a04ad908918cee8819ba278ec26d617672158e6df654845bec6a07f54148eb"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/interno/prateleiras_y.rbe",
+      "size_bytes": 6038,
+      "sha256": "a1893b5148343c151c18d1d2c245afac4cc5817e389d540840433dffd0dc3c4c"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/tamponamento/lateral_tamponamento.rbe",
+      "size_bytes": 2230,
+      "sha256": "69c9dd9214ce363afc02293d9628b567d6a679de0978c48ed6a7deb8134b3167"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/tamponamento/tampo_tamponamento.rbe",
+      "size_bytes": 5782,
+      "sha256": "7c252ee7ece6d184296ccc43750f9fee2e554f59c776b32534ffef1710e962d4"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/tamponamento/tamponamento_aereo.rbe",
+      "size_bytes": 16790,
+      "sha256": "f40034976f8e0dbc5de0b6d2edc7cc3e34995daf4e08b6542931e379ffc5831e"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/tamponamento/tamponamento_aereo_l.rbe",
+      "size_bytes": 21062,
+      "sha256": "e972dbab67df6ee99ff313c5a4c16b5d1ed66da5c376690b3c7cc70a501a5c76"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/tamponamento/tamponamento_balcao.rbe",
+      "size_bytes": 17206,
+      "sha256": "b724cde99f7abad6c477ccfb5e55ee271f6a681301f632552e738887f6faca6a"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/tamponamento/tamponamento_balcao_l.rbe",
+      "size_bytes": 25718,
+      "sha256": "ffd195c2b394c2bb5d2f4b17f29423a8a9aafcf394c999d03255fca3051348d1"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/tamponamento/torre_geladeira_alongada.rbe",
+      "size_bytes": 12598,
+      "sha256": "babf49e0639b5f728e8c79e5b9fcc8845737b520ae4c26bb4f2f4d5d3db54dd4"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/submodulos/usuario/peca_avulsa.rbe",
+      "size_bytes": 4502,
+      "sha256": "9b88a598c6ea5ea7aea548a1afe21622504b546b047e859a0cbed4fa0e5b6ac9"
+    },
+    {
+      "path": "zz_mobtech_dev/embedded_project/texturas/README.md",
+      "size_bytes": 218,
+      "sha256": "80af2de9a3cf04409df709e034fadff7400baadc6bcfb919d2cc69043845fde0"
+    },
+    {
+      "path": "zz_mobtech_dev/exporters/actions.rbe",
+      "size_bytes": 11558,
+      "sha256": "fe9ed1ccbc6eb6cb97ae7a476725da6d9b3aa38970fec5134300c5e2e2338acd"
+    },
+    {
+      "path": "zz_mobtech_dev/exporters/aspire_dxf_exporter.rbe",
+      "size_bytes": 30950,
+      "sha256": "eb700f2064cc337fadd375849ce423c998b6bda2128d95372a1dd4e6f8fb3ee5"
+    },
+    {
+      "path": "zz_mobtech_dev/exporters/cutlist_exporters.rbe",
+      "size_bytes": 12934,
+      "sha256": "421e0d0e88f126e1ae672c9fc8c1cd2476f4d1b23111ecdf0597d394b9d59daa"
+    },
+    {
+      "path": "zz_mobtech_dev/exporters/vectric_official_dxf_exporter.rbe",
+      "size_bytes": 60582,
+      "sha256": "ceb4d65babf4e58c7e5a412a08195ff61b49893c3893e81997b2e664f9a7ef48"
+    },
+    {
+      "path": "zz_mobtech_dev/library.html",
+      "size_bytes": 46422,
+      "sha256": "da5ed07505f9545e53e94eef132dea5fcecd1f2b7e9bcd7dcec9c8221a2e32ff"
+    },
+    {
+      "path": "zz_mobtech_dev/main.rbe",
+      "size_bytes": 16038,
+      "sha256": "c95ba55e99ee1d674c8721ed4903e1e5fe601037b3a48945531f4a4d5a9a0d54"
+    },
+    {
+      "path": "zz_mobtech_dev/panel.html",
+      "size_bytes": 460019,
+      "sha256": "2273c3a6b4aba0dabfbfc23a3b00a27098d248b30c3d4b31c9e2cce2a5cc0fca"
+    },
+    {
+      "path": "zz_mobtech_dev/piece_editor.html",
+      "size_bytes": 73869,
+      "sha256": "11c2ebd6783ac206d9d22fc0b3efab5b0b5fc5c235af154657d1c5d530668756"
+    },
+    {
+      "path": "zz_mobtech_dev/protected_runtime_attestation.json",
+      "size_bytes": 3430,
+      "sha256": "8f305eea663048317c6c72a462227392d2e4e26746383424f4a1b6c327bb1aa3"
+    },
+    {
+      "path": "zz_mobtech_dev/schemas/milimetrich_fields.json",
+      "size_bytes": 209,
+      "sha256": "546e3d9646440b8f32683d1e3e87de99f24e4a3a9eb14b57d07254f6dcf25a87"
+    },
+    {
+      "path": "zz_mobtech_dev/schemas/servicos_send_chain_known_pendencias.json",
+      "size_bytes": 987,
+      "sha256": "a6f889420b3762de3369489788ce818eb80b4a2c84f2db4595a76c41ddd216f4"
+    },
+    {
+      "path": "zz_mobtech_dev/ui/export_success_and_errors.rbe",
+      "size_bytes": 19430,
+      "sha256": "93d7548cb92ead9a1818ed5b5f95586deedd087323b9dd179beaea2510746264"
+    },
+    {
+      "path": "zz_mobtech_dev/ui/menu_module_runner.rbe",
+      "size_bytes": 37702,
+      "sha256": "c2526d560ba90743b6c94b0b55ad8127e4981fab0437a0a4cdcb6d6ce5a0b33f"
+    },
+    {
+      "path": "zz_mobtech_dev/ui/online_access_dialog.rbe",
+      "size_bytes": 37382,
+      "sha256": "c0abf575a9d609e46360c321144a63c1b0d4b31ae0366edc614ca256aa3eec86"
+    },
+    {
+      "path": "zz_mobtech_dev/ui/panel.rbe",
+      "size_bytes": 537926,
+      "sha256": "32c47254ff06a8cde4046fce2a401e09d1c93aeed965dd42bd50c518dc2633f8"
+    },
+    {
+      "path": "zz_mobtech_dev/ui/panel_apply_edit.rbe",
+      "size_bytes": 14198,
+      "sha256": "fee49839735caeb125a22fc7ee960034d9f5e13b3efbc8c8324c30d2ca446f95"
+    },
+    {
+      "path": "zz_mobtech_dev/ui/panel_apply_protocol.js",
+      "size_bytes": 1391,
+      "sha256": "c3d363bbb0b4192e95006d8e80eddf960caa4d7f589c0a3bca3bf1933b9c96f0"
+    },
+    {
+      "path": "zz_mobtech_dev/zz_mobtech_dev.susig",
+      "size_bytes": 65760,
+      "sha256": "38b4fdbfbc76d0024eede281fc680bb9b9f9a30ca71ca1f1f2f8181fc0524788"
+    }
+  ]
+}
